@@ -1,0 +1,188 @@
+{
+  "gemini-3.1-pro-preview": {
+    "provider": "google",
+    "model": "gemini-3.1-pro-preview",
+    "pricing": {
+      "input_cost_per_million": 2.0,
+      "output_cost_per_million": 12.0,
+      "cache_cost_per_million": 0.2
+    }
+  },
+  "gemini-3.1-flash-lite-preview": {
+    "provider": "google",
+    "model": "gemini-3.1-flash-lite-preview",
+    "pricing": {
+      "input_cost_per_million": 0.25,
+      "output_cost_per_million": 1.5,
+      "cache_cost_per_million": 0.025,
+      "audio_input_cost_per_million": 0.25
+    }
+  },
+  "gemini-3.1-flash-image-preview": {
+    "provider": "google",
+    "model": "gemini-3.1-flash-image-preview",
+    "pricing": {
+      "input_cost_per_million": 0.5,
+      "output_cost_per_million": 3.0
+    }
+  },
+  "gemini-3-flash-preview": {
+    "provider": "google",
+    "model": "gemini-3-flash-preview",
+    "pricing": {
+      "input_cost_per_million": 0.5,
+      "output_cost_per_million": 3.0,
+      "cache_cost_per_million": 0.05,
+      "audio_input_cost_per_million": 0.5
+    }
+  },
+  "gemini-3-pro-image-preview": {
+    "provider": "google",
+    "model": "gemini-3-pro-image-preview",
+    "pricing": {
+      "input_cost_per_million": 2.0,
+      "output_cost_per_million": 12.0
+    }
+  },
+  "gemini-3-pro-preview": {
+    "provider": "google",
+    "model": "gemini-3-pro-preview",
+    "pricing": {
+      "input_cost_per_million": 1.25,
+      "output_cost_per_million": 10.0,
+      "cache_cost_per_million": 0.125
+    }
+  },
+  "gemini-2.5-pro": {
+    "provider": "google",
+    "model": "gemini-2.5-pro",
+    "pricing": {
+      "input_cost_per_million": 1.25,
+      "output_cost_per_million": 10.0,
+      "cache_cost_per_million": 0.125
+    }
+  },
+  "gemini-2.5-flash": {
+    "provider": "google",
+    "model": "gemini-2.5-flash",
+    "pricing": {
+      "input_cost_per_million": 0.3,
+      "output_cost_per_million": 2.5,
+      "cache_cost_per_million": 0.03,
+      "audio_input_cost_per_million": 0.3
+    }
+  },
+  "gemini-2.5-flash-lite": {
+    "provider": "google",
+    "model": "gemini-2.5-flash-lite",
+    "pricing": {
+      "input_cost_per_million": 0.1,
+      "output_cost_per_million": 0.4,
+      "cache_cost_per_million": 0.01,
+      "audio_input_cost_per_million": 0.1
+    }
+  },
+  "gemini-2.5-flash-lite-preview-09-2025": {
+    "provider": "google",
+    "model": "gemini-2.5-flash-lite-preview-09-2025",
+    "pricing": {
+      "input_cost_per_million": 0.1,
+      "output_cost_per_million": 0.4,
+      "cache_cost_per_million": 0.01,
+      "audio_input_cost_per_million": 0.1
+    }
+  },
+  "gemini-2.5-flash-native-audio-preview-12-2025": {
+    "provider": "google",
+    "model": "gemini-2.5-flash-native-audio-preview-12-2025",
+    "pricing": {
+      "input_cost_per_million": 0.5,
+      "output_cost_per_million": 2.0,
+      "audio_input_cost_per_million": 0.5
+    }
+  },
+  "gemini-2.5-flash-image": {
+    "provider": "google",
+    "model": "gemini-2.5-flash-image",
+    "pricing": {
+      "input_cost_per_million": 0.3,
+      "output_cost_per_million": 0.039
+    }
+  },
+  "gemini-2.5-flash-preview-tts": {
+    "provider": "google",
+    "model": "gemini-2.5-flash-preview-tts",
+    "pricing": {
+      "input_cost_per_million": 0.5,
+      "output_cost_per_million": 10.0
+    }
+  },
+  "gemini-2.5-pro-preview-tts": {
+    "provider": "google",
+    "model": "gemini-2.5-pro-preview-tts",
+    "pricing": {
+      "input_cost_per_million": 1.0,
+      "output_cost_per_million": 20.0
+    }
+  },
+  "gemini-2.0-flash": {
+    "provider": "google",
+    "model": "gemini-2.0-flash",
+    "pricing": {
+      "input_cost_per_million": 0.1,
+      "output_cost_per_million": 0.4,
+      "cache_cost_per_million": 1.0,
+      "audio_input_cost_per_million": 0.1
+    }
+  },
+  "gemini-2.0-flash-lite": {
+    "provider": "google",
+    "model": "gemini-2.0-flash-lite",
+    "pricing": {
+      "input_cost_per_million": 0.075,
+      "output_cost_per_million": 0.3
+    }
+  },
+  "gemini-embedding-2-preview": {
+    "provider": "google",
+    "model": "gemini-embedding-2-preview",
+    "pricing": {
+      "input_cost_per_million": 12.0,
+      "output_cost_per_million": null
+    }
+  },
+  "gemini-embedding-001": {
+    "provider": "google",
+    "model": "gemini-embedding-001",
+    "pricing": {
+      "input_cost_per_million": 0.15,
+      "output_cost_per_million": null
+    }
+  },
+  "gemini-robotics-er-1.5-preview": {
+    "provider": "google",
+    "model": "gemini-robotics-er-1.5-preview",
+    "pricing": {
+      "input_cost_per_million": 0.3,
+      "output_cost_per_million": 2.5,
+      "audio_input_cost_per_million": 0.3
+    }
+  },
+  "gemini-2.5-computer-use-preview-10-2025": {
+    "provider": "google",
+    "model": "gemini-2.5-computer-use-preview-10-2025",
+    "pricing": {
+      "input_cost_per_million": 1.25,
+      "output_cost_per_million": 10.0
+    }
+  },
+  "openrouter/hunter-alpha": {
+    "provider": "openrouter",
+    "model": "openrouter/hunter-alpha",
+    "pricing": {
+      "input_cost_per_million": 0.0,
+      "output_cost_per_million": 0.0,
+      "note": "Free model - $0 for all token types"
+    }
+  }
+}

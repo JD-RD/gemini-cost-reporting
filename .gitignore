@@ -1,0 +1,7 @@
+venv/
+__pycache__/
+pricing-cache/
+token_usage.json
+token_history.json
+fx_rates.json
+morning_reflection.sh
